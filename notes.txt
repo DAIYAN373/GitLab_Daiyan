@@ -1,0 +1,1 @@
+git staging area is useful for ready the files that will be commit(save checkpoint). Without git staging area we cannot commit(working save checkpoint) it and not gaining the information that needed for upcoming repository.
